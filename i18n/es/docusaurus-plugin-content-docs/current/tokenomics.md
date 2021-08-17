@@ -24,6 +24,9 @@ Las asignaciones de BSX están sujetas a un período de vesting como se muestra 
   <img alt="create-account" src={useBaseUrl('/img/tokenomics/bsx_distribution.jpg')}  />
 </div>
 
-Notes:
+:::note
+
 * La distribución de todos los tokens **comenzará después de que concluya el evento LBP para BSX**. El evento LBP para BSX tendrá lugar aproximadamente de 2 a 4 semanas después de que Basilisk haya asegurado su slot Parachain.
 * Actualmente se desconoce la fecha exacta de inicio de las recompensas para los Collators y el Liquidity Mining. Esto debería tener lugar varias semanas después de la conclusión del evento LBP para BSX.
+
+:::
